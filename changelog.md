@@ -32,4 +32,29 @@ Release Date: Sep 21, 2017
     - 	Gallery.php
     -	About.php
 
+## Version 0.0.2
+
+## New Components
+
+-   controllers
+
+    -
+    
+## Updated Components
+
+-   controllers
+
+    -Welcome.php
+    -Gallery.php
+    -About.php
+
+-   models
+
+    -   
+
+-   views
+
+    -   Welcome.php
+    - 	Gallery.php
+    -	About.php
 
