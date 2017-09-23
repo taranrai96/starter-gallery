@@ -1,4 +1,4 @@
-#Change Log
+##Change Log
 
 Team membership:  Chris Kwon (Captain) & Taran Rai (First Mate)  
 Team conventions: Allman notation, markdown for changelog  
@@ -12,9 +12,9 @@ Release Date: Sep 21, 2017
 
 -   controllers
 
-    -   welcome
-    -	about
-    -	gallery
+    -   Welcome.php
+    -	About.php
+    -	Gallery.php
     
 ## Updated Components
 
@@ -28,9 +28,9 @@ Release Date: Sep 21, 2017
 
 -   views
 
-    -   Welcome.php
-    - 	Gallery.php
-    -	About.php
+    -   welcome.php
+    - 	gallery.php
+    -	about.php
 
 ## Version 0.0.2
 
@@ -44,9 +44,9 @@ Release Date: Sep 21, 2017
 
 -   controllers
 
-    -Welcome.php
-    -Gallery.php
-    -About.php
+    -   Welcome.php
+    -   Gallery.php
+    -   About.php
 
 -   models
 
@@ -54,7 +54,41 @@ Release Date: Sep 21, 2017
 
 -   views
 
-    -   Welcome.php
-    - 	Gallery.php
-    -	About.php
+    -   welcome.php
+    - 	gallery.php
+    -	about.php
+
+## Version 0.0.3
+
+## New Components
+
+-   controllers
+
+    -
+
+-   models
+
+    - images.php
+
+-   views
+
+    - _cell.php
+    
+## Updated Components
+
+-   controllers
+
+    - Gallery.php
+    - About.php
+
+
+-   models
+
+    -   
+
+-   views
+
+    - gallery.php
+    - welcome.php
+
 
